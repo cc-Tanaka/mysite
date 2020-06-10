@@ -4,7 +4,6 @@ about: バグ報告はこちらのテンプレートを利用してください
 title: ''
 labels: ''
 assignees: ''
-
 ---
 
 ## ■ 問題

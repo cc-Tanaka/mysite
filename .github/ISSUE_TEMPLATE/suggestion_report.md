@@ -4,7 +4,6 @@ about: 提案はこちらのテンプレートを利用してください
 title: ''
 labels: ''
 assignees: ''
-
 ---
 
 ## ■ 課題
