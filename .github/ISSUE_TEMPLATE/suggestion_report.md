@@ -1,5 +1,5 @@
 ---
-name: 提案
+name: 提案書
 about: 提案はこちらのテンプレートを利用してください
 title: ''
 labels: ''
