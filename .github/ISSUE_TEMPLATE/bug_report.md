@@ -1,38 +1,18 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: バグ報告
+about: バグ報告はこちらのテンプレートを利用してください
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
-
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+## ■ 問題
+> 特集管理画面で保存ボタンをクリックするとエラーメッセージが表示される
+> (どこで・なにを・どうすると問題が再現するかを書いてください)
+## ■ 問題が発生した時間
+> ◯月◯日 ◯時◯分
+> (はっきりとした時間がわからなくてもおおよその時間を書いてください)
+## ■ 問題が確認できるURL
+> https://www.colorfulcompany.co.jp/
+> (URLのみで問題が伝わらない場合はスクリーンショットを添付してください)
